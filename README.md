@@ -4,3 +4,7 @@ A collection of Python Jupyter Notebooks with implementations of various Machine
 1. [Linear Regression Notebook](https://github.com/nikhilsaldanha/MLNotebooks/blob/master/Linear%20Regression.ipynb)
 
    Illustrates how you can train a linear regression model to fit a line to a dataset
+
+2. [Logistic Regression Notebook](https://github.com/nikhilsaldanha/MLNotebooks/blob/master/Logistic%20Regression.ipynb)
+
+   Binary Logistic Regression Classifier
