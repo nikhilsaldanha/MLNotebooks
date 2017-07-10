@@ -90,3 +90,7 @@ ENV/
 
 # macOS
 .DS_Store
+
+# data
+datasets/
+data/

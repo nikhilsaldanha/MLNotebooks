@@ -8,3 +8,7 @@ A collection of Python Jupyter Notebooks with implementations of various Machine
 2. [Logistic Regression Notebook](https://github.com/nikhilsaldanha/MLNotebooks/blob/master/Logistic%20Regression.ipynb)
 
    Binary Logistic Regression Classifier
+
+3. [Deep Neural Network Notebook](https://github.com/nikhilsaldanha/MLNotebooks/blob/master/DNN.ipynb)
+   
+   Implementation of Deep Neural Network in Tensorflow
