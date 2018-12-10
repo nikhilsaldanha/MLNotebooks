@@ -9,7 +9,7 @@ A collection of Python Jupyter Notebooks with implementations of various Machine
    
 4. [Auto Encoder](https://github.com/nikhilsaldanha/MLNotebooks/blob/master/AE.ipynb)
 
-5. [Convolution Neural Network](https://github.com/nikhilsaldanha/MLNotebooks/blob/CNN.ipynb)
+5. [Convolution Neural Network](https://github.com/nikhilsaldanha/MLNotebooks/blob/master/CNN.ipynb)
 
-6. [Siamese Network](https://github.com/nikhilsaldanha/MLNotebooks/blob/siamese-networks.ipynb)
+6. [Siamese Network](https://github.com/nikhilsaldanha/MLNotebooks/blob/master/siamese-networks.ipynb)
 
